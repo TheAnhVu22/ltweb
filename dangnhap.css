@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+form {
+    border: solid;
+    padding: 38px;
+    background-color: lightblue;
+    width: 500px;
+    height: auto;
+    left: 38%;
+    position: fixed;
+    top: 20%;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+.nut{
+    margin: 10px 10px 10px;
+}
+
+

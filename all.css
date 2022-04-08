@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+header {
+    background-color:black;
+    height:100px;
+    margin:0px auto;
+
+}
+header h1 {
+    text-align:center;
+    line-height:100px;
+    color:white;
+    font-size:60px;
+    font-weight:normal;
+}
+li.nav-item {
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+li:hover{
+    background-color: black;
+}
